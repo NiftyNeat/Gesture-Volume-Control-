@@ -3,3 +3,5 @@
 
 Primero deben ir a: https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
 Y guardar el archivo como hand_landmarker.task en la misma carpeta donde estará su script.  
+
+<img width="776" height="145" alt="Image" src="https://github.com/user-attachments/assets/1c53d7d8-d992-4dc4-8389-508747ecea66" />
