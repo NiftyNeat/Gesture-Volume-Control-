@@ -8,9 +8,9 @@ Y guardar el archivo como hand_landmarker.task en la misma carpeta donde estará
 
 2° En el terminal descargar todas las librerias: 
 pip install opencv-python mediapipe pycaw comtypes numpy
-
+-
 Si tienen Python 3.11+ y hay problemas con mediapipe:
 pip install --upgrade mediapipe
-
+-
 Y si pycaw da problemas:
 pip install pycaw==20231107
